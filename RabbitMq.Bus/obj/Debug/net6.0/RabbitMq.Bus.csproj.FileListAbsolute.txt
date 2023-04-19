@@ -1,0 +1,12 @@
+D:\RabbitMQPrueba\Microservices\LibreriaBus\RabbitMq.Bus\RabbitMq.Bus\bin\Debug\net6.0\RabbitMq.Bus.deps.json
+D:\RabbitMQPrueba\Microservices\LibreriaBus\RabbitMq.Bus\RabbitMq.Bus\bin\Debug\net6.0\RabbitMq.Bus.dll
+D:\RabbitMQPrueba\Microservices\LibreriaBus\RabbitMq.Bus\RabbitMq.Bus\bin\Debug\net6.0\RabbitMq.Bus.pdb
+D:\RabbitMQPrueba\Microservices\LibreriaBus\RabbitMq.Bus\RabbitMq.Bus\obj\Debug\net6.0\RabbitMq.Bus.csproj.AssemblyReference.cache
+D:\RabbitMQPrueba\Microservices\LibreriaBus\RabbitMq.Bus\RabbitMq.Bus\obj\Debug\net6.0\RabbitMq.Bus.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabbitMQPrueba\Microservices\LibreriaBus\RabbitMq.Bus\RabbitMq.Bus\obj\Debug\net6.0\RabbitMq.Bus.AssemblyInfoInputs.cache
+D:\RabbitMQPrueba\Microservices\LibreriaBus\RabbitMq.Bus\RabbitMq.Bus\obj\Debug\net6.0\RabbitMq.Bus.AssemblyInfo.cs
+D:\RabbitMQPrueba\Microservices\LibreriaBus\RabbitMq.Bus\RabbitMq.Bus\obj\Debug\net6.0\RabbitMq.Bus.csproj.CoreCompileInputs.cache
+D:\RabbitMQPrueba\Microservices\LibreriaBus\RabbitMq.Bus\RabbitMq.Bus\obj\Debug\net6.0\RabbitMq.Bus.dll
+D:\RabbitMQPrueba\Microservices\LibreriaBus\RabbitMq.Bus\RabbitMq.Bus\obj\Debug\net6.0\refint\RabbitMq.Bus.dll
+D:\RabbitMQPrueba\Microservices\LibreriaBus\RabbitMq.Bus\RabbitMq.Bus\obj\Debug\net6.0\RabbitMq.Bus.pdb
+D:\RabbitMQPrueba\Microservices\LibreriaBus\RabbitMq.Bus\RabbitMq.Bus\obj\Debug\net6.0\ref\RabbitMq.Bus.dll
